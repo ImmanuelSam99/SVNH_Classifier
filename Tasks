@@ -1,0 +1,13 @@
+Tasks Done: 
+a. Split the data into X_train, X_test, Y_train, Y_test
+b. Data Visualisation and preprocessing
+c.  Visualize the first 10 images in train data and print their corresponding labels
+d. Reshape all the images with appropriate shapes and update the data in the same variable.
+e. Normalise the images i.e. Normalise the pixel values.
+f. Transform Labels into a format acceptable by Neural Network
+g. Print the total Number of classes in the Dataset
+h. Model Training & Evaluation using Neural Network(CNN)
+i. Plot the training loss, validation loss vs number of epochs and training accuracy,
+validation accuracy vs number of epochs plot and write your observations on the same.
+j. Train the classifier using previously designed Architecture
+k.  summarize the history of the model
